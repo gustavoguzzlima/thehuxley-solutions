@@ -1,5 +1,5 @@
 /* 
-    (c) 2019 @gustavoguzzlima <gdjl@ic.ufal.br>. The Huxley Q2086.
+    (c) 2019 @gustavoguzzlima <gdjl@ic.ufal.br>. Problem 2086, The Huxley.
 */
 #include <stdio.h>
 

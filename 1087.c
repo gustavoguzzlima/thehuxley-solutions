@@ -1,5 +1,5 @@
 /*
-    (c) 2019 @gustavoguzzlima <gdjl@ic.ufal.br>. The Huxley Q1087.
+(c) 2019 @gustavoguzzlima <gdjl@ic.ufal.br>. Problem 1087, The Huxley.
 */
 
 #include <stdio.h>
