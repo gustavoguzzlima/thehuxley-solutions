@@ -21,7 +21,7 @@ int main()
             a = b;
             b = tmp;
         }
-        
+
         if (a > c)
         {
             tmp = c;
