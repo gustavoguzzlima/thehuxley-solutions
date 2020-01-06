@@ -10,6 +10,6 @@ int main()
     
     scanf("%d", &number);
     printf("%d %d\n", number-1, number+1);
-    
+
     return 0;
 }
