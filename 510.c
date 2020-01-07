@@ -10,8 +10,8 @@ int main()
 
     scanf("%d %d", &a, &b);
 
-    if (a < b) printf("%d %d\n", a, b);
-    else printf("%d %d", b, a);
+    if (a == 1 || b == 1) printf("1\n");
+    else printf("0\n");
 
     return 0;
 }
